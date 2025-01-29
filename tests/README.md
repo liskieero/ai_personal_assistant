@@ -1,0 +1,1 @@
+This is a personal ai assistant project.
